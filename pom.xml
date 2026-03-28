@@ -4,3 +4,4 @@
   <artifactId>demo</artifactId>
   <version>1.0</version>
 </project>
+<packaging>war</packaging>
